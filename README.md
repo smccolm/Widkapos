@@ -5,7 +5,7 @@
 [![yt-dlp](https://img.shields.io/badge/Backend-yt--dlp-green)](https://github.com/yt-dlp/yt-dlp)
 [![Windows 11](https://img.shields.io/badge/OS-Windows%2011-blue?logo=windows)](https://www.microsoft.com/windows)
 
-A clean, modern, AI-assisted desktop application for intelligent media retrieval.
+A clean, modern, deterministic, desktop application for intelligent media retrieval.
 
 Built with **Gradio** for an elegant interface and **yt-dlp** for robust stream processing logic.
 
