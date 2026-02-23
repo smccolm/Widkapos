@@ -5,7 +5,6 @@ __pycache__/
 .Python
 venv/
 .env
-*.log
 downloads/   # optional - if you let it create a default folder
 
 # Visual Studio
@@ -15,3 +14,12 @@ downloads/   # optional - if you let it create a default folder
 *.sln.docstates
 bin/
 obj/
+
+# Sensitive files (cookies, credentials, etc.)
+cookies.txt
+cookies_export.txt
+*.cookies
+*.txt_export
+
+# logs
+*.log
