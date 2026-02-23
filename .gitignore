@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env
+*.log
+downloads/   # optional - if you let it create a default folder
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+bin/
+obj/
