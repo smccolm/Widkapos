@@ -112,7 +112,7 @@ Widkapos/
 ├── run.bat              # One-click launcher
 ├── settings.json        # Persistent settings (auto-created)
 ├── cookies.txt          # Authentication cookies (ignored in git)
-└── download.log         # yt-dlp verbose debug log
+└── download.log         # yt-dlp verbose debug log (ignored in git)
 ```
 
 ------------------------------------------------------------------------
