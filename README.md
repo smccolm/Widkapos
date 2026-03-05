@@ -33,7 +33,7 @@ Built with **Gradio** for an elegant interface and **yt-dlp** for robust stream 
 
 ## 🚀 Why Widkapos?
 
-Modern media can be fragmented, restricted, or static-image only. Widkapos delivers:
+Widkapos delivers:
 
 - Beautiful, no-command-line interface
 - One-click format selection + highest-fidelity override
