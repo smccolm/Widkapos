@@ -200,7 +200,11 @@ with gr.Blocks(title="Widkapos") as demo:
     )
 
 demo.queue().launch(
-    allowed_paths=[os.path.expanduser("~"), r"D:\Downloads\Video"],
+    allowed_paths=[
+        os.path.expanduser("~"), 
+        r"D:\Downloads\Video", 
+        r"D:\Downloads\Music"          # ← add this line (or whatever path is in settings.json)
+    ],
     theme=gr.themes.Default(text_size="lg"),
     css=custom_css
 )
